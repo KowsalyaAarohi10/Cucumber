@@ -1,0 +1,14 @@
+package TestRunner;
+
+import org.junit.runner.RunWith;
+
+import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
+
+@RunWith(Cucumber.class)
+@CucumberOptions(features= {"/CucumberProject/src/test/java/Feature/FeatureFile.feature"}, glue= {"/CucumberProject/src/test/java/StepsDefinition/Steps.java"})
+
+
+public class RunnerClass {
+
+}

@@ -1,0 +1,8 @@
+package org.inher;
+
+public class AbstracTwo extends TestOne {
+
+	
+	
+
+}

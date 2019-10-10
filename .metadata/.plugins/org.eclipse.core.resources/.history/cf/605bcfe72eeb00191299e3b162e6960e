@@ -1,0 +1,17 @@
+package org.inher;
+
+public class AbstracTwo {
+	
+	public  void methodOne() {
+		
+		System.out.println("MethodOne");
+	}
+	
+
+	void methodTwo() {
+		System.out.println("MethodTwo");
+		
+	}
+	
+
+}

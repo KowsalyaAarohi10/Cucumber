@@ -1,0 +1,5 @@
+Feature: Gmail login feature
+Scenario: Gmail login scenario
+	Given User should login the gmail 
+	When User should enter the valid username and login
+	Then User click on the submit butoon

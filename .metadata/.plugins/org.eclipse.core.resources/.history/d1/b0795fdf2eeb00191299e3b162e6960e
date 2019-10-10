@@ -1,0 +1,23 @@
+ package org.inher;
+
+public abstract  class TestOne {
+	
+	public  void methodOne() {
+		
+		System.out.println("MethodOne");
+	}
+		
+
+	 abstract void methodTwo();
+	
+	 
+	 public static void main(String[] args) {
+		 
+		
+	}
+	
+	}
+	
+	
+
+

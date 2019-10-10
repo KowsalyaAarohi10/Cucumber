@@ -1,0 +1,14 @@
+package org.inher;
+
+public class AbstracTwo extends TestOne {
+
+	@Override
+	void methodTwo() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+	
+
+}

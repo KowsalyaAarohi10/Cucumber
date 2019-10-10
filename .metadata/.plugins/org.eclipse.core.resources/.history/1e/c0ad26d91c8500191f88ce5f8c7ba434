@@ -1,0 +1,22 @@
+package org.abst.task;
+
+public class NewBank extends AbstNew{
+
+	@Override
+	public void savings() {
+		System.out.println("9%");		
+	}
+
+	@Override
+	public void deposit() {
+		System.out.println("8%");
+	}
+
+	public static void main(String[] args) {
+		NewBank b = new NewBank();
+		b.deposit();
+		b.savings();b.fixed();
+	}
+	
+
+}

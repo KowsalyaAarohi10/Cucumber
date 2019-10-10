@@ -1,0 +1,21 @@
+ package org.inher;
+
+public  class Abstract {
+	
+public  void methodOne() {
+		
+		System.out.println("MethodOne");
+	}
+		
+
+	 void methodTwo() {
+		 
+		System.out.println("");
+	 }
+	
+	
+	}
+	
+	
+
+
